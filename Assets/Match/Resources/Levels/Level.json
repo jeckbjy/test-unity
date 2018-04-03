@@ -1,0 +1,239 @@
+﻿{
+    "version": 1,
+    "width": 11,
+    "height": 9,
+    "mode": 0,
+    "limit": 20,
+    "layers": [
+        {
+            "layer": "OBJECT",
+            "elements": [
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM"
+            ]
+        }
+    ],
+    "creators": [
+        {
+            "elements": [
+                {
+                    "k": "NORMAL_A",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_B",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_C",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_D",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_E",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_F",
+                    "v": 1
+                }
+            ]
+        },
+        {
+            "elements": []
+        },
+        {
+            "elements": []
+        },
+        {
+            "elements": []
+        },
+        {
+            "elements": []
+        }
+    ],
+    "genPositions": [
+        {
+            "x": 0,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "creator": 0
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "creator": 0
+        }
+    ],
+    "targets": [],
+    "collectionTarget": {
+        "isTarget": true,
+        "total": 10,
+        "min": 2,
+        "elements": [
+            "COLLECTION1",
+            "COLLECTION2",
+            "COLLECTION3"
+        ],
+        "genPos": [
+            {
+                "x": 4,
+                "y": 8
+            }
+        ],
+        "collectPos": [
+            {
+                "x": 4,
+                "y": 0
+            },
+            {
+                "x": 5,
+                "y": 0
+            }
+        ]
+    }
+}

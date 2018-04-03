@@ -1,0 +1,94 @@
+﻿{
+    "version": 1,
+    "width": 1,
+    "height": 9,
+    "mode": 0,
+    "limit": 20,
+    "energyScore": 1000,
+    "nextEnergyScore": 1000,
+    "energyItemNumber": 3,
+    "layers": [
+        {
+            "layer": "OBJECT",
+            "elements": [
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "RANDOM",
+                "EMPTY",
+                "EMPTY",
+                "RANDOM"
+            ]
+        }
+    ],
+    "creators": [
+        {
+            "elements": [
+                {
+                    "k": "NORMAL_A",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_B",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_C",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_D",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_E",
+                    "v": 1
+                },
+                {
+                    "k": "NORMAL_F",
+                    "v": 1
+                }
+            ]
+        },
+        {
+            "elements": []
+        },
+        {
+            "elements": []
+        },
+        {
+            "elements": []
+        },
+        {
+            "elements": []
+        }
+    ],
+    "genPositions": [
+        {
+            "x": 0,
+            "y": 8,
+            "creator": 0
+        }
+    ],
+    "targets": [
+        {
+            "k": "NORMAL_A",
+            "v": 100
+        },
+        {
+            "k": "NORMAL_B",
+            "v": 100
+        }
+    ],
+    "collectionTarget": {
+        "isTarget": false,
+        "total": 0,
+        "min": 0,
+        "elements": [],
+        "genPos": [],
+        "collectPos": []
+    },
+    "wormHole": []
+}
